@@ -1,6 +1,6 @@
 # HOST_TOAST
 
-# What is HOST_TOAST?
+## What is HOST_TOAST?
 
 HOST_TOAST is a web hosting program similar to apache.
 It hosts any static html code with ease. It automatically loads to localhost:8080 but this can be changed in the code.
