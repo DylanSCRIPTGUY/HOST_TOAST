@@ -10,9 +10,9 @@ It hosts any static html code with ease. It automatically loads to localhost:808
 HOST_TOAST can be run by having an index.html file in the same location as the program and simply opening HOST_TOAST.
 It requires python 3 to run (PYTHON 2 not tested) and a web browser to open.
 
-## Will HOST_TOAST gain any new features?
+## Can I make my site viewable to other users?
 
-Yes. Our next update will allow you to make your site be public (HOPEFULLY)
+Yes. We reccomend using Localxpose, localtunnel, or ngrok to Make your site public
 
 
 # DISCLAIMER! HOST_TOAST is in beta stages and is not stable enough for enterprise sites
